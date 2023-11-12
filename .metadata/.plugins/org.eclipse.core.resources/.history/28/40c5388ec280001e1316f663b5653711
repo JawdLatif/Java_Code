@@ -1,0 +1,17 @@
+package com.Abstration_Exp_2;
+
+public class CalWORK extends MI {
+
+	@Override
+	String jobSearch() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	String EMP() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

@@ -1,0 +1,10 @@
+package com.Abstration_Exp_2;
+
+public class MIDetails {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

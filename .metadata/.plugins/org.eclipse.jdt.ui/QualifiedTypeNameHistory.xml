@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.practice1.Employees"/>
+    <fullyQualifiedTypeName name="com.constractor.Employees"/>
+    <fullyQualifiedTypeName name="com.method.Number"/>
+    <fullyQualifiedTypeName name="com.project.Mobile"/>
+    <fullyQualifiedTypeName name="java.lang.StringIndexOutOfBoundsException"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="com.control_Satment.Empoly_Level"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="com.ArrayList.StudentsNames"/>
+    <fullyQualifiedTypeName name="java.util.Iterator"/>
+    <fullyQualifiedTypeName name="java.util.ListIterator"/>
+    <fullyQualifiedTypeName name="com.ArrayList.Employee_Oct_5"/>
+    <fullyQualifiedTypeName name="java.util.LinkedList"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="com.Map.BMW_Map"/>
+    <fullyQualifiedTypeName name="java.util.Map.Entry"/>
+    <fullyQualifiedTypeName name="com.Zoo_Oct_12_2023.Bird"/>
+    <fullyQualifiedTypeName name="com.Zoo_Oct_12_2023.Animals_Details"/>
+    <fullyQualifiedTypeName name="com.Zoo_Oct_12_2023.Reptiles"/>
+    <fullyQualifiedTypeName name="com.OOp.Bird"/>
+    <fullyQualifiedTypeName name="com.inheratance.Eagle"/>
+    <fullyQualifiedTypeName name="com.inheratance_2.TesterEmployee"/>
+    <fullyQualifiedTypeName name="com.Constructors.Main"/>
+    <fullyQualifiedTypeName name="com.Constructors.Final"/>
+</qualifiedTypeNameHistroy>

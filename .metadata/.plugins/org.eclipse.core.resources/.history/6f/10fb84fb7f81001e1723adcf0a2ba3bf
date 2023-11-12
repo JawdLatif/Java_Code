@@ -1,0 +1,17 @@
+package com.Enum;
+
+public class Enum_Ex_2 {
+	enum one{
+		LOW,
+		MEDIUM,
+		HIGH
+	}
+	
+	
+	
+	public static void main(String[] args) {
+		
+
+	}
+
+}

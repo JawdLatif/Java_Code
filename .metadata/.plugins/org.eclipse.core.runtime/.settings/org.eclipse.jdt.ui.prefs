@@ -1,0 +1,11 @@
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="com.practice1.Employees"><rhs name\="com.practice1.Employees"/></lhs><lhs name\="com.constractor.Employees"><rhs name\="com.constractor.Employees"/></lhs><lhs name\="com.method.Number"><rhs name\="com.method.Number"/></lhs><lhs name\="com.project.Mobile"><rhs name\="com.project.Mobile"/></lhs><lhs name\="com.control_Satment.Empoly_Level"><rhs name\="com.control_Satment.Empoly_Level"/></lhs><lhs name\="com.ArrayList.StudentsNames"><rhs name\="com.ArrayList.StudentsNames"/></lhs><lhs name\="com.ArrayList.Employee_Oct_5"><rhs name\="com.ArrayList.Employee_Oct_5"/></lhs><lhs name\="com.Map.BMW_Map"><rhs name\="com.Map.BMW_Map"/></lhs><lhs name\="com.Zoo_Oct_12_2023.Zoo"><rhs name\="com.Zoo_Oct_12_2023.Bird"/><rhs name\="com.Zoo_Oct_12_2023.Reptiles"/></lhs><lhs name\="com.Zoo_Oct_12_2023.Mammalia"><rhs name\="com.Zoo_Oct_12_2023.Bird"/></lhs><lhs name\="com.Zoo_Oct_12_2023.Bird"><rhs name\="com.Zoo_Oct_12_2023.Bird"/></lhs><lhs name\="com.Zoo_Oct_12_2023.Reptiles"><rhs name\="com.Zoo_Oct_12_2023.Reptiles"/></lhs><lhs name\="com.OOp.Animal"><rhs name\="com.OOp.Bird"/></lhs><lhs name\="com.inheratance.Bird"><rhs name\="com.inheratance.Eagle"/></lhs><lhs name\="com.inheratance.Eagle"><rhs name\="com.inheratance.Eagle"/></lhs><lhs name\="com.inheratance_2.EmployeeDetails"><rhs name\="com.inheratance_2.TesterEmployee"/></lhs><lhs name\="com.inheratance_2.TesterEmployee"><rhs name\="com.inheratance_2.TesterEmployee"/></lhs><lhs name\="com.Constructors.Main"><rhs name\="com.Constructors.Main"/></lhs><lhs name\="com.Constructors.Final"><rhs name\="com.Constructors.Final"/></lhs></history>
+content_assist_number_of_computers=12
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+markOccurrences=false
+org.eclipse.jdt.ui.formatterprofiles.version=23
+spelling_locale_initialized=true
+typefilter_migrated_2=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true
